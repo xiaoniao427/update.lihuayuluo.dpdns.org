@@ -59,15 +59,15 @@ async function handleRequest(request) {
           "text": "关于服务器"
         }
       ],
-      "date": "2026.2.30",
+      "date": "2026.2.16",
       "content": [
         {
           "lang": "en",
-          "text": "提前祝您新年快乐！"
+          "text": "祝您新年快乐！"
         },
         {
           "lang": "zh_CN",
-          "text": "提前祝您新年快乐！"
+          "text": "祝您新年快乐！"
         }
       ]
     };
