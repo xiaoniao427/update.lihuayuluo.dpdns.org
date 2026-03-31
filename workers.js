@@ -11,20 +11,20 @@ async function handleRequest(request) {
     const jsonData = [
       {
         "type": "release",
-        "versionCode": 12842,
-        "versionName": "1.2.8.4.2",
-        "date": "2026.02.13",
+        "versionCode": 12843,
+        "versionName": "1.2.8.4.3",
+        "date": "2026.03.31",
         "description": [
           {
             "lang": "en",
-            "text": "修复bug"
+            "text": "添加模组（必更新）"
           },
           {
             "lang": "zh_CN",
-            "text": "修复bug"
+            "text": "添加模组（必更新）"
           }
         ],
-        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FCL-PBlossom/releases/download/v1.2.8.4.2/FCL-release-1.2.8.4.2-arm64-v8a.Apk",
+        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FCL-PBlossom/releases/download/v1.2.8.4.3/FCL-release-1.2.8.4.3-arm64-v8a.Apk",
         "url": "https://github.com/xiaoniao427/FCL-PBlossom/releases/latest"
       }
     ];
@@ -41,7 +41,7 @@ async function handleRequest(request) {
 
   // 检查是否访问 /titles/FCL/Releases_Version/1.2.4.5/announcement.txt 路径
   if (url.pathname === '/titles/FCL/Releases_Version/1.2.4.5/announcement.txt') {
-    // 创建要返回的JSON数据（按照你提供的格式）
+    // 创建要返回的JSON数据
     const announcementData = {
       "id": 8,
       "significant": true,
@@ -63,11 +63,11 @@ async function handleRequest(request) {
       "content": [
         {
           "lang": "en",
-          "text": "祝您新年快乐！"
+          "text": "暂无公告"
         },
         {
           "lang": "zh_CN",
-          "text": "祝您新年快乐！"
+          "text": "暂无公告"
         }
       ]
     };
