@@ -59,7 +59,7 @@ async function handleRequest(request) {
           "text": "关于服务器"
         }
       ],
-      "date": "2026.2.16",
+      "date": "2026.3.31",
       "content": [
         {
           "lang": "en",
