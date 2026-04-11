@@ -11,8 +11,8 @@ async function handleRequest(request) {
     const jsonData = [
       {
         "type": "release",
-        "versionCode": 12844,
-        "versionName": "1.2.8.4.4",
+        "versionCode": 12845,
+        "versionName": "1.2.8.4.5",
         "date": "2026.04.11",
         "description": [
           {
@@ -24,7 +24,7 @@ async function handleRequest(request) {
             "text": "修复bug（必更新）"
           }
         ],
-        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FCL-PBlossom/releases/download/v1.2.8.4.4/FCL-release-1.2.8.4.4-arm64-v8a.Apk",
+        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FCL-PBlossom/releases/download/v1.2.8.4.5/FCL-release-1.2.8.4.5-arm64-v8a.Apk",
         "url": "https://github.com/xiaoniao427/FCL-PBlossom/releases/latest"
       }
     ];
