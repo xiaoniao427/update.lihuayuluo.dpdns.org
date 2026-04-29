@@ -11,21 +11,21 @@ async function handleRequest(request) {
     const jsonData = [
       {
         "type": "release",
-        "versionCode": 12845,
-        "versionName": "1.2.8.4.5",
-        "date": "2026.04.11",
+        "versionCode": 12982,
+        "versionName": "1.2.9.8.2",
+        "date": "2026.04.29",
         "description": [
           {
             "lang": "en",
-            "text": "修复bug（必更新）"
+            "text": "添加用户统计"
           },
           {
             "lang": "zh_CN",
-            "text": "修复bug（必更新）"
+            "text": "添加用户统计"
           }
         ],
-        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FCL-PBlossom/releases/download/v1.2.8.4.5/FCL-release-1.2.8.4.5-arm64-v8a.Apk",
-        "url": "https://github.com/xiaoniao427/FCL-PBlossom/releases/latest"
+        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/download/1.2.9.8.2/FCL-release-1.2.9.8.2-all.apk",
+        "url": "https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/latest"
       }
     ];
 
@@ -52,22 +52,22 @@ async function handleRequest(request) {
       "title": [
         {
           "lang": "en",
-          "text": "About PBlossom"
+          "text": "关于客户端"
         },
         {
           "lang": "zh_CN",
-          "text": "关于服务器"
+          "text": "关于客户端"
         }
       ],
-      "date": "2026.3.31",
+      "date": "2026.4.29",
       "content": [
         {
           "lang": "en",
-          "text": "暂无公告"
+          "text": "1.2.9.8.2更新：\n添加用户统计\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
         },
         {
           "lang": "zh_CN",
-          "text": "暂无公告"
+          "text": "1.2.9.8.2更新：\n添加用户统计\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
         }
       ]
     };
