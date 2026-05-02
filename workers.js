@@ -11,20 +11,20 @@ async function handleRequest(request) {
     const jsonData = [
       {
         "type": "release",
-        "versionCode": 12982,
-        "versionName": "1.2.9.8.2",
-        "date": "2026.04.29",
+        "versionCode": 12983,
+        "versionName": "1.2.9.8.3",
+        "date": "2026.05.2",
         "description": [
           {
             "lang": "en",
-            "text": "添加用户统计"
+            "text": "添加客户端封禁功能"
           },
           {
             "lang": "zh_CN",
-            "text": "添加用户统计"
+            "text": "添加客户端封禁功能"
           }
         ],
-        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/download/1.2.9.8.2/FCL-release-1.2.9.8.2-all.apk",
+        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/download/1.2.9.8.3/FCL-release-1.2.9.8.3-all.apk",
         "url": "https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/latest"
       }
     ];
@@ -63,11 +63,11 @@ async function handleRequest(request) {
       "content": [
         {
           "lang": "en",
-          "text": "1.2.9.8.2更新：\n添加用户统计\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
+          "text": "1.2.9.8.3更新：\n添加客户端封禁功能\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
         },
         {
           "lang": "zh_CN",
-          "text": "1.2.9.8.2更新：\n添加用户统计\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
+          "text": "1.2.9.8.3更新：\n添加客户端封禁功能\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
         }
       ]
     };
