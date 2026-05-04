@@ -13,7 +13,7 @@ async function handleRequest(request) {
         "type": "release",
         "versionCode": 12985,
         "versionName": "1.2.9.8.5",
-        "date": "2026.05.4",
+        "date": "2026.5.4",
         "description": [
           {
             "lang": "en",
