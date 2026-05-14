@@ -11,21 +11,21 @@ async function handleRequest(request) {
     const jsonData = [
       {
         "type": "release",
-        "versionCode": 12985,
-        "versionName": "1.2.9.8.5",
-        "date": "2026.5.4",
+        "versionCode": 12986,
+        "versionName": "1.2.9.8.6",
+        "date": "2026.5.15",
         "description": [
           {
             "lang": "en",
-            "text": "添加溯源水印"
+            "text": "优化水印"
           },
           {
             "lang": "zh_CN",
-            "text": "添加溯源水印"
+            "text": "优化水印"
           }
         ],
-        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/download/1.2.9.8.5/FCL-release-1.2.9.8.5-all.apk",
-        "url": "https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/latest"
+        "netdiskUrl": "https://gh-proxy.org/https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/download/1.2.9.8.6/FCL-release-1.2.9.8.6-all.apk",
+        "url": "https://gh-proxy.org/https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/releases/download/1.2.9.8.6/FCL-release-1.2.9.8.6-all.apk"
       }
     ];
 
@@ -59,15 +59,15 @@ async function handleRequest(request) {
           "text": "关于客户端"
         }
       ],
-      "date": "2026.5.4",
+      "date": "2026.5.15",
       "content": [
         {
           "lang": "en",
-          "text": "1.2.9.8.5更新：\n添加溯源水印\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
+          "text": "1.2.9.8.6更新：\n优化水印\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
         },
         {
           "lang": "zh_CN",
-          "text": "1.2.9.8.5更新：\n添加溯源水印\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
+          "text": "1.2.9.8.6更新：\n优化水印\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/"
         }
       ]
     };
