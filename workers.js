@@ -52,22 +52,22 @@ async function handleRequest(request) {
       "title": [
         {
           "lang": "en",
-          "text": "关于客户端"
+          "text": "停止维护"
         },
         {
           "lang": "zh_CN",
-          "text": "关于客户端"
+          "text": "停止维护"
         }
       ],
       "date": "2026.5.19",
       "content": [
         {
           "lang": "en",
-          "text": "1.2.9.8.7更新：\n优化水印\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/\n客户端开发者赞助地址：https://ifdian.net/@tzhd427"
+          "text": "停止维护，勿扰"
         },
         {
           "lang": "zh_CN",
-          "text": "1.2.9.8.7更新：\n优化水印\n开源地址：https://github.com/xiaoniao427/FoldCraftLauncher-PBlossom/\n客户端开发者赞助地址：https://ifdian.net/@tzhd427"
+          "text": "停止维护，勿扰"
         }
       ]
     };
